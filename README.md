@@ -4,7 +4,7 @@
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/adesh9201/developer-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/adesh9201/adeshportfolio)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here]().
+
 
 ---
 
