@@ -1,12 +1,6 @@
 
 
----
-
-# [Built Portfolio With GitHub ](https://github.com/adesh9201/adeshportfolio)
-
----
-
-# Developer Portfolio
+# Adesh Mishra Portfolio
 
 #### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
